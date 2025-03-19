@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#bulb{
+    width: 300px;
+    height: 400px;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(114, 71, 71);
+    color: rgb(193, 210, 225);
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(30, 30, 53);
+}
